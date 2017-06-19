@@ -1,0 +1,61 @@
+p, a {
+	font-family: "Tahoma", sans-serif;
+}
+
+.card {
+	width: 400px;
+	height: 550px;
+	padding: 10px;
+	margin: 40px auto;
+}
+
+.border {
+	width: 376px;
+	border: 2px solid #5a5a5a;
+}
+
+.header p, .button_installment_plan a {
+	font-size: 22px;
+	text-align: center;
+}
+
+.item {
+	width: 252px;
+	margin: 15px 65px 0 65px;
+}
+
+.button_installment_plan {
+	width: 180px;
+	height: 30px;
+	background: #8bc144;
+	box-shadow: -2px 2px #9c9c9c;
+	text-align: center;
+}
+
+.button_installment_plan a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.price p {
+	
+	font-size: 31px;
+	text-align: center;
+	color: #000000;
+}
+
+.button_buy {
+	width: 218px;
+	height: 46px;
+	background: #ff0000;
+	margin: 0 79px 5px 64px;
+	border-bottom: 2px solid #850000;
+	text-align: center;
+}
+
+.button_buy a {
+	font-size: 28px;
+	color: #ffffff;
+	text-shadow: -1px 0 #850000;
+	text-decoration: none;
+}
